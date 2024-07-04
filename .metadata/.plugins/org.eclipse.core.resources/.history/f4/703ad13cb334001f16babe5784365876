@@ -1,0 +1,12 @@
+package entities.enums;
+
+public enum OrderStatus {
+	PAYMENT_PENDING("Pedente"),
+	PROCESSING("Processando"),
+	SHIPPING("Enviado"),
+	DELIVERED("Entregue");
+
+	OrderStatus(String string) {
+	}
+	
+}
