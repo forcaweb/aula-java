@@ -1,0 +1,3 @@
+tv led,1299.00,2
+computador,2600.00,3
+absorvente,5.00,3
