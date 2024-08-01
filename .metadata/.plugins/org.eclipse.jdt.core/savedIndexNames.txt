@@ -15,7 +15,6 @@ INDEX VERSION 1.134+C:\Users\Dihh\OneDrive\Área de Trabalho\Projetos\Projetos J
 4125801521.index
 2412663871.index
 3079489510.index
-1928694551.index
 2031360305.index
 1848264833.index
 3401111984.index
@@ -36,8 +35,8 @@ INDEX VERSION 1.134+C:\Users\Dihh\OneDrive\Área de Trabalho\Projetos\Projetos J
 2373032492.index
 2877021705.index
 128018861.index
-3156049159.index
 1837511852.index
+3156049159.index
 2620418152.index
 1229624955.index
 3540718134.index
@@ -65,6 +64,7 @@ INDEX VERSION 1.134+C:\Users\Dihh\OneDrive\Área de Trabalho\Projetos\Projetos J
 543299892.index
 1114937750.index
 2334711899.index
+2283363595.index
 975504335.index
 513466311.index
 2787883591.index
@@ -80,6 +80,7 @@ INDEX VERSION 1.134+C:\Users\Dihh\OneDrive\Área de Trabalho\Projetos\Projetos J
 1612451901.index
 1244104911.index
 535661772.index
+1253180212.index
 3302752270.index
 2818410857.index
 2197315747.index
